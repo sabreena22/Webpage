@@ -1,1 +1,0 @@
-  <p><input type="datetime-local" placeholder="Date and time" required name="date" value="2020-11-16T20:00"></p>
